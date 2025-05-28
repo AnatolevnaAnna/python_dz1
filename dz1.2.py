@@ -7,4 +7,4 @@ if num.isdigit():
     elif num % 2 == 1:
         print(f"Число {int(num)} не является четным")
 else:
-    print(f"Ниче тот факт, что это не число?")
+    print(f"Это не число?")
